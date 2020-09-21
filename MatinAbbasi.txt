@@ -1,0 +1,109 @@
+.LOG
+
+
+
+The Work Done
+{
+
+Tutorials
+	{
+
+	"C Plus Plus univercity sharif omid jafarinezhad";
+	"blender telegram chanell asman baz";
+	"C++ Toplearn ahmad jafari";
+	"git toplearn soheyl";
+	"English-Gramer-A1-Persian";
+
+	}
+
+Serials and movies
+	{
+
+	"Matrix 1";
+	"Matrix 2";
+	"Matrix 3";
+	" Mr Robot {
+		Mr Robot S1
+		Mr Robot S2
+		Mr Robot S3}";
+
+	}
+
+}
+
+
+
+Work in progress
+{
+
+	"LPIC1 Maktabkhone Jadi Mirmirani";
+	"Chess Faradars";
+
+}
+
+
+
+Future work
+{
+
+}
+
+
+
+Started work
+{
+
+12:55 PM 9/9/2020
+	"LPIC1 Maktabkhone Jadi Mirmirani";
+
+12:50 PM 9/10/2020
+	"Chess Faradars";
+
+}
+
+
+
+Ended work
+{
+
+5:53 AM 9/7/2020
+	"C++ Toplearn ahmad jafari";
+2:29 PM 9/17/2020
+	"git toplearn soheyl";
+3:00 PM 9/20/2020
+	"English-Gramer-A1-Persian";
+
+}
+
+
+
+Notes
+{
+
+
+}
+10:36 PM 9/5/2020
+
+5:51 AM 9/7/2020
+
+5:53 AM 9/7/2020
+
+8:15 PM 9/7/2020
+
+12:55 PM 9/9/2020
+
+1:00 PM 9/9/2020
+
+1:01 PM 9/9/2020
+
+10:28 AM 9/10/2020
+
+12:50 PM 9/10/2020
+
+4:46 PM 9/12/2020
+
+9:36 PM 9/16/2020
+
+2:29 PM 9/17/2020
+
+3:00 PM 9/20/2020

@@ -13,6 +13,7 @@ Tutorials
 	"C++ Toplearn ahmad jafari";
 	"git toplearn soheyl";
 	"English-Gramer-A1-Persian";
+	"Chess Faradars";
 
 	}
 
@@ -37,7 +38,7 @@ Work in progress
 {
 
 	"LPIC1 Maktabkhone Jadi Mirmirani";
-	"Chess Faradars";
+	
 
 }
 
@@ -72,6 +73,8 @@ Ended work
 	"git toplearn soheyl";
 3:00 PM 9/20/2020
 	"English-Gramer-A1-Persian";
+11:25 AM 9/22/2020
+	"Chess Faradars";
 
 }
 
@@ -107,3 +110,5 @@ Notes
 2:29 PM 9/17/2020
 
 3:00 PM 9/20/2020
+
+11:25 AM 9/22/2020
